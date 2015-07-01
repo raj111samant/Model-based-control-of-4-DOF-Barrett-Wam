@@ -1,4 +1,6 @@
 Model based control of 4 DOF Barrett Wam
+7-DOF Manipulator (Barrett Technologies, Barrett Wam) is a part of Intelligent Systems Laboratory, in Indian Institute of Technology, Kanpur. As part of research program various experiments are being performed on the setup. Niladri Das as part of his Master's program and in his Research Assistant year laid programming foundation. Aritra Mitra as part of his Master's program has modeled the manipulator and developed controllers namely, Back Stepping Controller, Sliding Mode Controller, Terminal Sliding Mode Controller. Raj Nayan Samant (Me) is currently working on Kinesthetic Learning using Dynamic Motion Primitives. This repository is a collection of all development that is being done on Barrett Wam as part of ISL IITK.
+
 File Distribution:
 	|
 	|-- Model :
